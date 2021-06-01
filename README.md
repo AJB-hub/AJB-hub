@@ -11,7 +11,7 @@ Virginia Commonwealth University — B.S. Applied Mathematics 2019
 ### SKILLS
 ‣	VBA Excel scripting, Excel as a data exploratory tool.  
 ‣	Python scripting with pandas, matplotlib, NumPy.  
-‣	JSON and XML API request design.  
-‣	SQL  / mongoDB query construction and data merging.  
+‣	JSON API 
+‣	SQL  / PostgreSQL query construction and data merging.  
 ‣	Hypothesis Testing for large data sets in Python.  
-‣	SQL query construction   
+
