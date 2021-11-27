@@ -2,10 +2,8 @@
 ### PROFILE 
 Data Analyst with a background in Applied Mathematics and Programming. 
 
-Currently pursuing further education in programming and data visualization. 
-
 ### EDUCATION
-University of Richmond — Data Analytics Bootcamp Certification Est. Sept. 2021  
+University of Richmond — Data Analytics Bootcamp Certification Sept. 2021  
 
 Virginia Commonwealth University — B.S. Applied Mathematics 2019
 
